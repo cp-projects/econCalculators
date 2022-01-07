@@ -5,8 +5,6 @@ from urllib.request import urlopen
 
 "https://foreclosures.bankofamerica.com/search/illinois/chicago"
 
-#testing testing 123
-
 
 #test functions to debug parsers
 
